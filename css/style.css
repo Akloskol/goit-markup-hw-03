@@ -12,6 +12,13 @@ body {
     color: #434455;
     background-color: var(--main-bg-color);
 }
+.my-image {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
 
 * {
     margin: 0;
@@ -19,6 +26,7 @@ body {
 .list {
     list-style: none;
 }
+
 /* Header */
     .logo-header-link{
         font-family: "Raleway", sans-serif;
