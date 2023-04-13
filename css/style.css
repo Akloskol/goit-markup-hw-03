@@ -264,6 +264,7 @@ body {
     
         .logo-text {
             color:var(--main-ag-color);
+            display: inline-block;
         }
 
         .logo-information{
