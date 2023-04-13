@@ -31,7 +31,7 @@ body {
 
     .header {
         border-bottom: 1px solid #e7e9fc;
-        margin-right: 76px;
+    
     }
 
     .container {
@@ -39,6 +39,7 @@ body {
         align-items: center;
         width: 1158px;
         padding: 0 15px;
+        
     }
 
     .navigation {
@@ -55,11 +56,13 @@ body {
         text-transform: uppercase;
         color: var(--main-pg-color);
         text-decoration: none; 
+        margin-right: 76px;
     }
 
     .logo-header-blue{
         text-decoration: none;
         color: var(--main-vg-color);
+        margin-right: 76px;
     }
 
 /* Page-link */
