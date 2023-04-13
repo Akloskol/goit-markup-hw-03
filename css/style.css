@@ -220,9 +220,6 @@ body {
         background-color: #FFFFFF;
     }
 
-
-
-
 /* Button-Portfolio */
    
     .filter-btn-active {
@@ -272,11 +269,11 @@ body {
 
 
     
-/* Footer */
+/* Footer-WebStudio-Portfolio*/
         .footer {
             background-color: var(--main-vg-color);
             padding: 100px 0;
-            display: inline-block;
+            
         }
             .container{
                 max-width: 1200px;
