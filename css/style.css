@@ -20,6 +20,8 @@ body {
     list-style: none;
 }
 
+/* WebStudio */
+
 /* Header */
 
     .header {
@@ -135,6 +137,22 @@ body {
         display: block;
     }
 
+/* Section-2 */
+    .section-md{
+        padding: 120px 0;
+    }
+
+    .section-md-list{
+        display: flex;
+        gap: 24px;
+        list-style: none;
+    }
+
+    .section-md-information{
+        width: calc((100% - 72px) / 4);
+    }
+
+
 /* Button-Portfolio */
    
     .filter-btn-active {
@@ -194,14 +212,7 @@ body {
     .mgpd{
         background-color: #FFFFFF;
     }
-    .section-md-list{
-        display: flex;
-        gap: 24px;
-    }
-
-    .section-md-information{
-        width: calc((100% - 72px) / 4);
-    }
+    
 
     .section-ma{
         padding-bottom: 120px;
@@ -263,9 +274,7 @@ body {
         background-color: #FFFFFF;
     }
 
-    .section-md{
-        padding: 120px 0;
-    }
+    
 /* Footer */
         .footer {
             background-color: var(--main-vg-color);
