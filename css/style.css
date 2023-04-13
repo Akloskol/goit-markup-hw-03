@@ -181,7 +181,8 @@ body {
         max-width: 496px;
     }
 
-/* Section (3-4) heading */
+
+/* Section (2-3-4) heading */
     .section-heading {
         font-size: 36px;
         line-height: 1.11;
@@ -217,9 +218,14 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em; 
     }
-        .photo {
-            background-color: #FFFFFF;}
 
+    .photo {
+        background-color: #FFFFFF;
+    }
+
+    .section-md{
+        padding: 120px 0;
+    }
 /* Footer */
         .footer {
             background-color: var(--main-vg-color);
