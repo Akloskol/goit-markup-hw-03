@@ -195,6 +195,14 @@ body {
     .mgpd{
         background-color: #FFFFFF;
     }
+    .section-mr-list{
+        display: flex;
+        gap: 24px;
+    }
+
+    .section-mr-information{
+        width: calc((100% - 72px) / 4);
+    }
 
 /* Section-4 */
 
@@ -211,6 +219,7 @@ body {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: var(--main-vg-color);
+        margin-bottom: 8px;
     }
 
     .specialization{
