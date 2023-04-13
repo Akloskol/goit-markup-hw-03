@@ -62,7 +62,7 @@ body {
     .logo-header-blue{
         text-decoration: none;
         color: var(--main-vg-color);
-        
+        display: flex;
     }
 
 /* Page-link */
