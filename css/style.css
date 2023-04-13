@@ -186,6 +186,7 @@ body {
         text-transform: capitalize;
         color: var(--main-vg-color);
         margin-bottom: 72px;
+        
     }
 
     .mgpd{
@@ -221,6 +222,7 @@ body {
 
     .section-mr{
         background-color: var(--main-ag-color);
+        padding: 120px 0;
     }
 
     .rml{
