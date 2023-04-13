@@ -121,6 +121,9 @@ body {
         letter-spacing: 0.04em;
         background-color: #4D5AE5;
         color: #ffffff;
+        min-width: 169px;
+        height: 56px;
+        border: none;
     }
 
 /* Button-Portfolio */
@@ -173,6 +176,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
+        max-width: 496px;
     }
 
 /* Section (3-4) heading */
