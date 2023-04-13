@@ -186,7 +186,7 @@ body {
         text-transform: capitalize;
         color: var(--main-vg-color);
         margin-bottom: 72px;
-        
+
     }
 
     .mgpd{
@@ -227,6 +227,9 @@ body {
 
     .rml{
         background-color: var(--main-bg-color);
+        display: flex;
+        gap: 24px;
+
     }
     .name{
          font-weight: 500;
