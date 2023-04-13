@@ -28,6 +28,17 @@ body {
 }
 
 /* Header */
+
+    .header {
+        border-bottom: 1px solid #e7e9fc;
+    }
+
+    .container {
+        display: flex;
+        align-items: center;
+        width: 1158px;
+        padding: 0 15px;
+    }
     .logo-header-link{
         font-family: "Raleway", sans-serif;
         font-weight: 800;
