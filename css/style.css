@@ -41,12 +41,6 @@ body {
         align-items: center;
     }
 
-    .header-list{
-        list-style: none;
-        display: flex;
-        gap: 40px;
-    }
-
     .logo-header-link{
         font-family: "Raleway", sans-serif;
         font-weight: 800;
@@ -64,6 +58,12 @@ body {
         color: var(--main-vg-color);
         
     }
+
+    .header-list {
+      list-style: none;
+      display: flex;
+      gap: 40px;
+  }
 
     .link-menu{
         font-weight: 500;
@@ -300,5 +300,7 @@ body {
 
         .logo-information{
             max-width: 264px;
+            font-size: 16px;
+            line-height: 24px;
             color: #F4F4FD;
         }
