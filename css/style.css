@@ -13,7 +13,6 @@ body {
     background-color: var(--main-bg-color);
 }
 
-
 * {
     margin: 0;
 }
@@ -33,7 +32,6 @@ body {
         align-items: center;
         width: 1158px;
         padding: 0 15px;
-        display: flex;
     }
 
     .navigation {
@@ -59,12 +57,6 @@ body {
         
     }
 
-    .header-list {
-      list-style: none;
-      display: flex;
-      gap: 40px;
-  }
-
     .link-menu{
         font-weight: 500;
         font-size: 16px;
@@ -85,6 +77,12 @@ body {
         font-style: normal;
     }
     
+    .header-list {
+        list-style: none;
+        display: flex;
+        gap: 40px;
+    }
+
     .link-contact {
         color: var(--main-vg-color);
         text-decoration: none;
@@ -99,7 +97,21 @@ body {
     }
     
 
-/* Button-main-page */
+/* Section-1 */
+    .section-mc {
+        background-color: var(--main-vg-color);
+        padding: 188px 0;
+    }
+
+    .section-header{
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        max-width: 496px;
+    }
+
     .filter-btn:hover,
     .filter-btn:focus {
         background-color: var(--second-background-color);
@@ -163,18 +175,8 @@ body {
     }
 
 /* Section-1 */
-    .section-mc{
-        background-color: var(--main-vg-color);
-        padding: 188px 0;
-    }
-    .section-header{
-        font-size: 56px;
-        line-height: 1.07;
-        text-align: center;
-        letter-spacing: 0.02em;
-        color: #FFFFFF;
-        max-width: 496px;
-    }
+    
+    
 
 
 /* Section (2-3-4) heading */
