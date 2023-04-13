@@ -39,6 +39,12 @@ body {
         width: 1158px;
         padding: 0 15px;
     }
+
+    .navigation {
+        display: flex;
+        align-items: center;
+    }
+
     .logo-header-link{
         font-family: "Raleway", sans-serif;
         font-weight: 800;
@@ -48,7 +54,6 @@ body {
         text-transform: uppercase;
         color: var(--main-pg-color);
         text-decoration: none; 
-
     }
 
     .logo-header-blue{
