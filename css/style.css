@@ -181,7 +181,12 @@ body {
 /* Footer */
         .footer {
             background-color: var(--main-vg-color);
+            padding: 100px 0;
         }
+            .container{
+                max-width: 1200px;
+                margin: 0 auto;
+            }
     
         .logo-link {
             font-family: "Raleway", sans-serif;
@@ -192,8 +197,21 @@ body {
             text-transform: uppercase;
             color: #4d5ae5;
             text-decoration: none;
+
+            display: inline-block;
+            margin-bottom: 16px;
+            text-decoration: none;
+            color: #333;
+
         }
     
         .logo-text {
             color:var(--main-ag-color);
+        }
+
+        .logo-information{
+            max-width: 264px;
+            font-size: 16px;
+            line-height: 24px;
+            color: #666;
         }
