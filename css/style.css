@@ -69,6 +69,8 @@ body {
         letter-spacing: 0.02em;
         color: var(--main-vg-color);
         text-decoration: none;
+        padding: 24px 0;
+        margin-right: 76px;
     }
 
     .link-menu:hover,
