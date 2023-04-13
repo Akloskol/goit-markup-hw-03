@@ -211,7 +211,7 @@ body {
         gap: 24px;
         }
 
-    .section-ma-img{
+    .section-img{
         width: calc((100% - 48px) / 3);
     }
 
