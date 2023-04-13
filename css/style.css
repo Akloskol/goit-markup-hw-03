@@ -211,7 +211,7 @@ body {
         gap: 24px;
         }
 
-    .section-ma-list-img{
+    .photos{
         width: calc((100% - 48px) / 3);
     }
 
