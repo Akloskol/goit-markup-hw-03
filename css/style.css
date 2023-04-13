@@ -286,7 +286,6 @@ body {
             color: #4d5ae5;
             text-decoration: none;
 
-            display: inline-block;
             margin-bottom: 16px;
             text-decoration: none;
             
@@ -295,6 +294,7 @@ body {
         
         .logo-text {
             color:var(--main-ag-color);
+            display: inline-block;
         }
 
         .logo-information{
