@@ -292,9 +292,14 @@ body {
             
         }
     
+.container-rj {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: inline-block;
+}
+        
         .logo-text {
             color:var(--main-ag-color);
-           
         }
 
         .logo-information{
