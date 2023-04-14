@@ -222,6 +222,9 @@ body {
 
 /* Button-Portfolio */
    
+    .logo-header{
+        border-bottom: 1px solid #e7e9fc;
+    }
     .filter-btn-active {
         font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -285,14 +288,13 @@ body {
             text-transform: uppercase;
             color: #4d5ae5;
             text-decoration: none;
-            
+
             display: inline-block;
             margin-bottom: 16px;
             text-decoration: none;
             
         }
 
-        
         .logo-text {
             color:var(--main-ag-color);
             display: inline-block;
