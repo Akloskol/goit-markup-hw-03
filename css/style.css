@@ -220,7 +220,7 @@ body {
         background-color: #FFFFFF;
     }
 
-/* Button-Portfolio */
+/* Portfolio */
    
     .logo-header{
         border-bottom: 1px solid #e7e9fc;
@@ -236,7 +236,7 @@ body {
         gap: 24px;
         margin-bottom: 72px;
     }
-    
+
     .filter-btn-active {
         font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -246,11 +246,18 @@ body {
         background-color: var(--main-ag-color);
         color: var(--main-pg-color);
         cursor: pointer;
+        padding: 12px 24px;
+        border: 1px solid #e7e9fc;
+        border-radius: 4px;
+
     }
 
     .filter-btn-active:is(:hover, :focus) {
         color: #FFFFFF;
         background-color: var(--second-background-color, #404BBF);
+        border: 1px solid transparent;
+        border: 1px solid transparent;
+
     }
 
 /* Img-(1-9)-Portfolio */
