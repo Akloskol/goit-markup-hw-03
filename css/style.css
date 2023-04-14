@@ -225,6 +225,18 @@ body {
     .logo-header{
         border-bottom: 1px solid #e7e9fc;
     }
+
+    .section-mt{
+        padding: 96px 0 120px;
+    }
+
+    .section-mt-list{
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+        margin-bottom: 72px;
+    }
+    
     .filter-btn-active {
         font-family: "Roboto", sans-serif;
         font-weight: 500;
