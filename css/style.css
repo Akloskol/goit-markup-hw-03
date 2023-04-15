@@ -196,7 +196,7 @@ img {
 
     .rml{
         background-color: var(--main-bg-color);
-        width: calc((100% - 72px) / 4);
+        flex-basis: calc((100% - 3 * 24px) / 4)ж
     }
 
     .name-spec{
@@ -248,7 +248,7 @@ img {
         column-gap: 24px;
         row-gap: 48px;
         list-style: none;
-        width: calc((100% - 48px) / 3);
+    
 
     }
 
