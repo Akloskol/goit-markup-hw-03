@@ -276,6 +276,9 @@ img {
         border: 1px solid transparent;
     }
 
+    .section-ml{
+        width: calc((100% - 48px) / 3);
+    }
 
 
     
