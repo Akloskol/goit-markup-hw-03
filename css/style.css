@@ -276,7 +276,7 @@ img {
         border: 1px solid transparent;
     }
 
-    .section-ml{
+    .app-item{
         width: calc((100% - 48px) / 3);
     }
 
