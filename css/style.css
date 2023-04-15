@@ -278,6 +278,7 @@ img {
 
     .app-item{
         width: calc((100% - 48px) / 3);
+        list-style: none;
     }
 
     .app-container{
