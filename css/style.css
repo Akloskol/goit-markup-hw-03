@@ -60,7 +60,7 @@ img {
         margin-right: 76px;
     }
 
-    .container-nav{
+    .container-nav container{
         display: flex;
         width: 1158px;
         padding: 0 15px;
