@@ -60,6 +60,12 @@ img {
         margin-right: 76px;
     }
 
+    .container-container-nav{
+        display: flex;
+        width: 1158px;
+        padding: 0 15px;
+        margin: 0 auto;
+    }
     .logo-header-blue{
         text-decoration: none;
         color: var(--main-vg-color);
