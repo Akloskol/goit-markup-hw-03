@@ -37,7 +37,7 @@ img {
     }
 
     .container {
-        display: flex;
+        
         width: 1158px;
         padding: 0 15px;
         margin: 0 auto;
@@ -200,6 +200,7 @@ img {
     .rml{
         background-color: var(--main-bg-color);
         width: calc((100% - 72px) / 4);
+        border-radius: 0px 0px 4px 4px;
     }
 
     .name-spec{
@@ -331,6 +332,7 @@ img {
         }
             
         .logo-link {
+            display: inline-block;
             font-family: "Raleway", sans-serif;
             font-weight: 800;
             font-size: 18px;
@@ -341,7 +343,7 @@ img {
             text-decoration: none;
             margin-bottom: 16px;
             text-decoration: none;
-            display: inline-block;
+            
         }
 
         .logo-text {
