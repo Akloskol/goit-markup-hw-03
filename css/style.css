@@ -38,6 +38,9 @@ img {
 
     .container {
         display: flex;
+        width: 1158px;
+            padding: 0 15px;
+            margin: 0 auto;
        
     }
 
@@ -58,11 +61,7 @@ img {
         margin-right: 76px;
     }
 
-    .container-nav container{
-        width: 1158px;
-        padding: 0 15px;
-        margin: 0 auto;
-    }
+   
     .logo-header-blue{
         text-decoration: none;
         color: var(--main-vg-color);
