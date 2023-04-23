@@ -37,10 +37,8 @@ img {
     }
 
     .container {
-        
-        width: 1158px;
-        padding: 0 15px;
-        margin: 0 auto;
+        display: flex;
+       
     }
 
     .navigation {
@@ -60,8 +58,7 @@ img {
         margin-right: 76px;
     }
 
-    .container-nav {
-        display: flex;
+    .container-nav container{
         width: 1158px;
         padding: 0 15px;
         margin: 0 auto;
