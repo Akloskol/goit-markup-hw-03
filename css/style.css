@@ -37,7 +37,7 @@ img {
     }
 
     .container {
-        
+        display: flex;
         width: 1158px;
         padding: 0 15px;
         margin: 0 auto;
@@ -333,6 +333,8 @@ img {
             padding: 100px 0;
             
         }
+
+        .container-footer{}
             
         .logo-link {
             display: inline-block;
