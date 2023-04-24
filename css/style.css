@@ -334,7 +334,11 @@ img {
             
         }
 
-        .container-footer{}
+        .container-footer{
+            width: 1158px;
+                padding: 0 15px;
+                margin: 0 auto;
+        }
             
         .logo-link {
             display: inline-block;
