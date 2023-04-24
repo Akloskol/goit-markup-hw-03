@@ -36,7 +36,9 @@ img {
     
     }
 
-    
+    .container-nav{
+        display: flex;
+    }
     .container {
         
         width: 1158px;
